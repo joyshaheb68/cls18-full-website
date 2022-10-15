@@ -115,13 +115,8 @@
         font-size: 16px;
     }
 }
-@media all and (max-width: 440px) {
-    .menu{
-        display: none;
-    }
-    .logo-div img {
-        margin-bottom: 0px;
-    }
+@media all and (max-width: 441px) {
+    
 }
 
 
